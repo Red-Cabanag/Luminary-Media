@@ -33,7 +33,7 @@ body {
 
 
 header {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: #F7E6CA;
     position: sticky;
     top: 0;
     z-index: 99;
