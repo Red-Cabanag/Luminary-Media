@@ -72,8 +72,8 @@ main {
 }
 
 .content-section {
-    background: rgb(255, 255, 255);
-    color: #F7E6CA ;
+    background: #F7E6CA;
+    color: #333;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
@@ -118,7 +118,7 @@ img {
 
 .box {
     border: 2px solid #0c0228;
-    background-color: #947df0;
+    background-color: #F7E6CA;
     border-radius: 10px;
     padding: 15px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -147,7 +147,7 @@ img {
 
 .obs-box {
     border: 2px solid #0c0228;
-    background-color: #947df0;
+    background-color: #F7E6CA;
     border-radius: 10px;
     padding: 15px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
